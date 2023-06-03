@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "api-atv",
+    "slug": "api-atv",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
